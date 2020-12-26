@@ -59,8 +59,8 @@ kalo lu belum punya apk termux, download di playstore
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
-> cd XP-TNNBOT
+> git clone https://github.com/davellyno-cyber/WhatsApp-bot
+> cd WhatsApp-bot
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -70,7 +70,7 @@ Siapin alat dan bahannya.
 > Download Nodejs
 > jika udah open laLU install script ini
 > jika udh semua kalian pindahkan ke localdisk c
-> jika udah ketik di nodejs nya cd C:\XP-TNNBOT-main
+> jika udah ketik di nodejs nya cd C:WhatsApp-bot\-main
 > npm i ytdl
 > npm i cwebp
 > npm i
@@ -125,9 +125,8 @@ Github ini dan support😅
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (FADHIL)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com) (FADHIL GRAPHY)
-* [`Instagram Admin`](https://instagram.com/nur.fdhl_)
-* [`WhatsApp Admin `](https://wa.me/6283102650464)
+* [`Instagram Admin`](https://www.instagram.com/davellyno.djossie?r=nametag)
+* [`WhatsApp Admin `](https://wa.me/6288291819830)
 
 ##THANKS TO MY FRENDS
 * [`caliph71 Github`](https://github.com/Caliph71)
