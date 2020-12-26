@@ -44,14 +44,14 @@ Siapin alat dan bahannya.
 ```
 
 ### Informasi Pengguna
-Script ini di modifikasi sama saya sendiri XP-TN
+Script ini di modifikasi sama saya sendiri Mybot
 ```bash
 > Support My Github😘
 > Jangan Lupa follow github saya🤗
 > jika error lapor ke Pembuat script chat wa link ada di github 
 ```
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri FADHIL.
+Script ini di modifikasi sama saya sendiri DAVELLYNO.
 GITHUBNYA GANTI YA BUKAN YG INI!!
 ```bash
 kalo lu belum punya apk termux, download di playstore
