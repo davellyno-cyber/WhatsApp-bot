@@ -126,7 +126,7 @@ BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (FADHI
 
 ## Sosial Media Admin
 * [`Instagram Admin`](https://www.instagram.com/davellyno.djossie?r=nametag)
-* [`WhatsApp Admin `](https://wa.me/6288291819830)
+* [`WhatsApp Admin `](https://wa.me/6288291819839)
 
 ##THANKS TO MY FRENDS 
 * [`caliph71 Github`](https://github.com/Caliph71)
